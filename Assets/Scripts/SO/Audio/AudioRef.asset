@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 450dbd9dc1e5dd14bb8983eeb458e869, type: 3}
+  m_Name: AudioRef
+  m_EditorClassIdentifier: 
+  sashimiAudio: {fileID: 8300000, guid: 90850cb71249f9542b765d508486cc5d, type: 3}
+  addAudio: {fileID: 0}
+  rotNuocAudio: {fileID: 8300000, guid: 70103249ec98c7e48ab3fb6a6372218d, type: 3}
+  deliveryAudio: {fileID: 8300000, guid: 90850cb71249f9542b765d508486cc5d, type: 3}
+  trashSound: {fileID: 8300000, guid: b999babf2b585c8409ee007fe3ab22d8, type: 3}
+  serveFoodAudio: {fileID: 8300000, guid: 69116c3928b046c4082681cf85e0ea0a, type: 3}

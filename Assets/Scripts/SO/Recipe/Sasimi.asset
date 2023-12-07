@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7911f56342e50394d8320e7eb5c3671b, type: 3}
+  m_Name: Sasimi
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: b75f13793085d6d4bb888107bdd8400f, type: 2}
+  output: {fileID: 11400000, guid: 0e544ce86e969244383dfa68ffbda526, type: 2}
+  timer: 3
